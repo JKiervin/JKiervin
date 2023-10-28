@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JKiervin
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on someone who also learning HTML, CSS and Js
+- 📫 You can reach through my email (jhokiervin20.57@gmail.com);
